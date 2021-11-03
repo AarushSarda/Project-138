@@ -1,0 +1,11 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+#Instructions {
+    float:right;
+    border: 1px solid whitesmoke;
+}
+#start , #status {
+    font-size: 22px;
+}
